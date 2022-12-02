@@ -35,3 +35,5 @@ Ovaj sjajan alat je velika pomoć nastavnicima i učenicima.
 - Unstaging Files
 - Discarding Local Changes
 - Restoring a File to an Earlier Version 
+
+## Alati
