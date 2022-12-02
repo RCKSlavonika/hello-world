@@ -1,7 +1,8 @@
 # Hello world
 
 Spremni smo za razvoj Beta verzije.
-[Link na Readme](readme.html)
+
+[Link na Readme](README.md)
 
 [Git šalabahter](#)
 
